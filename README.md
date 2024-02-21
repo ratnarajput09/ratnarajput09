@@ -12,10 +12,6 @@ I Love Code. Passionate about Fontend Development.
 * 🤝  I'm open to collaborating on Other Frontend projects
 * ⚡  I love exploring tech.
 
-<a href="https://www.x.com/developer_Ratna" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/developer_Ratna?logo=twitter&style=for-the-badge&color=84cc16&labelColor=000000"
-/></a>
-
 ### Skills
 
 
@@ -32,10 +28,8 @@ src="https://img.shields.io/twitter/follow/developer_Ratna?logo=twitter&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ratnarajput09"><img src="https://github-readme-stats.vercel.app/api?username=ratnarajput09&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="ratnarajput09's GitHub stats" /></a>
+<a href="http://www.github.com/ratnarajput09"><img src="https://github-readme-stats.vercel.app/api?username=ratnarajput09&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=3382ed&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="ratnarajput09's GitHub stats" /></a>
 
-<a href="http://www.github.com/ratnarajput09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ratnarajput09&stroke=ec4899&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ec4899&currStreakLabel=3382ed&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a>
+<a href="http://www.github.com/ratnarajput09"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ratnarajput09&stroke=3382ed&background=000000&ring=ef4444&fire=ef4444&currStreakNum=3382ed&currStreakLabel=ef4444&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-<a href="http://www.github.com/ratnarajput09"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ratnarajput09&bg_color=000000&color=ec4899&line=84cc16&point=ec4899&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/ratnarajput09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnarajput09&langs_count=10&title_color=3382ed&text_color=ec4899&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ratnarajput09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ratnarajput09&langs_count=10&title_color=ef4444&text_color=3382ed&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
